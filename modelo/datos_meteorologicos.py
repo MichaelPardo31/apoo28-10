@@ -1,4 +1,4 @@
-# modelo/datos_meteorologicos.py
+from typing import Tuple
 import math
 from collections import Counter
 
